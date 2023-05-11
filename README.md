@@ -1,4 +1,4 @@
-## MACK Attack
+# MACK Attack
 
 Welcome to your CSE 481p repo! 
 

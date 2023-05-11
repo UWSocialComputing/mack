@@ -1,4 +1,4 @@
-# mack
+# MACK Attack
 
 Welcome to your CSE 481p repo! 
 
@@ -17,3 +17,7 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 [G2](/G2.md)
 
 [G3](/G3.md)
+
+[G4](/G4.md)
+
+[G5](/G5.md)

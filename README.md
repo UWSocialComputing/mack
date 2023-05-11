@@ -13,5 +13,7 @@ If you want to change the site's Jekyll template and/or add custom CSS, please r
 You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
 
 [G1](/G1.md)
+
 [G2](/G2.md)
+
 [G3](/G3.md)

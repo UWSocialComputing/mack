@@ -4,24 +4,26 @@ Checkout the code for our project on our [Github repository](https://github.com/
 
 ## Meet the team!
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: nowrap;">
     <figure style="text-align: center; margin: 10px;">
-        <img src="Corinne.png" alt="Image 1" width="200" height="200" />
+        <img src="Corinne.png" alt="Image 1" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
         <figcaption>Corinne Herzog</figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
-        <img src="Kristina.png" alt="Image 2" width="200" height="200" />
+        <img src="Kristina.png" alt="Image 2" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
         <figcaption>Kristina Lansang</figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
-        <img src="image3.jpg" alt="Image 3" width="200"  height="200"/>
+        <img src="Anokhi.png" alt="Image 3" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
         <figcaption>Anokhi Shah</figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
-        <img src="Malisha.png" alt="Image 4" width="200" height="200" />
-        <figcaption>Malisha Shah</figcaption>
+        <img src="Malisha.png" alt="Image 4" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
+        <figcaption>Malisha</figcaption>
     </figure>
 </div>
+
+
 
 
 

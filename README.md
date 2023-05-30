@@ -2,25 +2,27 @@
 ![logo](/logo.png)
 Checkout the code for our project on our [Github repository](https://github.com/UWSocialComputing/mack-code) and checkout our web app here: [https://friendstomeet-155ac.web.app/](https://friendstomeet-155ac.web.app/).
 
-Meet the team!
-<div>
-    <figure>
-        <img src="Corinne.png" alt="Image 1" width="200" />
+## Meet the team!
+
+<div style="display: flex; flex-wrap: wrap;">
+    <figure style="text-align: center; margin: 10px;">
+        <img src="Corinne.png" alt="Image 1" width="200" height="200" />
         <figcaption>Corinne Herzog</figcaption>
     </figure>
-    <figure>
-        <img src="Kristina.png" alt="Image 2" width="200" />
+    <figure style="text-align: center; margin: 10px;">
+        <img src="Kristina.png" alt="Image 2" width="200" height="200" />
         <figcaption>Kristina Lansang</figcaption>
     </figure>
-    <figure>
-        <img src="image3.jpg" alt="Image 3" width="200" />
+    <figure style="text-align: center; margin: 10px;">
+        <img src="image3.jpg" alt="Image 3" width="200"  height="200"/>
         <figcaption>Anokhi Shah</figcaption>
     </figure>
-    <figure>
-        <img src="Malisha.png" alt="Image 4" width="200" />
+    <figure style="text-align: center; margin: 10px;">
+        <img src="Malisha.png" alt="Image 4" width="200" height="200" />
         <figcaption>Malisha Shah</figcaption>
     </figure>
 </div>
+
 
 
 # Blog Posts

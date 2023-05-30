@@ -12,12 +12,17 @@ If you want to change the site's Jekyll template and/or add custom CSS, please r
 
 You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.org/cheat-sheet) handy.
 
-[G1](/G1.md)
+4/13/2023
+[User Research Report](/G1.md)
 
-[G2](/G2.md)
+4/18/2023
+[Pitch Presentation](/G2.md)
 
-[G3](/G3.md)
+4/27/2023
+[Low Fidelity Prototype](/G3.md)
 
-[G4](/G4.md)
+5/4/2023
+[Code and Design Specification](/G4.md)
 
-[G5](/G5.md)
+5/9/2023
+[Midterm Presentation](/G5.md)

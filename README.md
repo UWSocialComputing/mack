@@ -26,3 +26,12 @@ You may also find this [GitHub markdown cheatsheet](https://www.markdownguide.or
 
 5/9/2023
 ## [Midterm Presentation](/G5.md)
+
+5/18/2023
+## [User Testing](/G6.md)
+
+5/25/2023
+## [Digital Prototype](/G7.md)
+
+5/20/2023
+## [Video Demo](/G8.md)

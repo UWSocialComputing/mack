@@ -1,5 +1,8 @@
 ![logo](/logo.png)
-Checkout the code for our project on our [Github repository](https://github.com/UWSocialComputing/mack-code) and checkout our web app here: [https://friendstomeet-155ac.web.app/](https://friendstomeet-155ac.web.app/).
+Check out the code for our project on our [Github repository](https://github.com/UWSocialComputing/mack-code) and checkout our web app here: [https://friendstomeet-155ac.web.app/](https://friendstomeet-155ac.web.app/).
+
+Check out the video of Friends2Meet in action: 
+[![Alt text](https://img.youtube.com/vi/zJI_qETQ3hQ/0.jpg)](https://www.youtube.com/watch?v=zJI_qETQ3hQ)
 
 ## Meet the team!
 

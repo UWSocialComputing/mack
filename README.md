@@ -1,7 +1,7 @@
 ![logo](/logo.png)
 Check out the code for our project on our [Github repository](https://github.com/UWSocialComputing/mack-code) and checkout our web app here: [https://friendstomeet-155ac.web.app/](https://friendstomeet-155ac.web.app/).
 
-Check out the video of Friends2Meet in action: 
+Check out the video of Friends2Meet in action:
 [![Alt text](https://img.youtube.com/vi/zJI_qETQ3hQ/0.jpg)](https://www.youtube.com/watch?v=zJI_qETQ3hQ)
 
 ## Meet the team!
@@ -9,7 +9,7 @@ Check out the video of Friends2Meet in action:
 <div style="display: flex; flex-wrap: nowrap;">
     <figure style="text-align: center; margin: 10px;">
         <img src="Corinne.png" alt="Image 1" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
-        <figcaption><a href="https://www.linkedin.com/in/kristina-lansang/">Corinne Herzog</a></figcaption>
+        <figcaption><a href="https://www.linkedin.com/in/corinne-herzog-664480169/">Corinne Herzog</a></figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
         <img src="Kristina.png" alt="Image 2" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
@@ -17,11 +17,11 @@ Check out the video of Friends2Meet in action:
     </figure>
     <figure style="text-align: center; margin: 10px;">
         <img src="Anokhi.png" alt="Image 3" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
-        <figcaption><a href="https://www.linkedin.com/in/kristina-lansang/">Anokhi Shah</a></figcaption>
+        <figcaption><a href="https://www.linkedin.com/in/-anokhi-shah">Anokhi Shah</a></figcaption>
     </figure>
     <figure style="text-align: center; margin: 10px;">
         <img src="Malisha.png" alt="Image 4" style="max-width: 200px; max-height: 200px; object-fit: contain;" />
-        <figcaption><a href="https://www.linkedin.com/in/kristina-lansang/">Malisha Shah</a></figcaption>
+        <figcaption><a href="https://www.linkedin.com/in/malisha-shah">Malisha Shah</a></figcaption>
     </figure>
 </div>
 
